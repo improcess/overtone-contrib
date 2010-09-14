@@ -1,4 +1,3 @@
-
 (ns overtone-contrib.time
   (:use [overtone.core.time-utils :only [now schedule]]))
 
